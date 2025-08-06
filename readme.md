@@ -171,7 +171,7 @@ npm run dev
 
 ## 🙌 Author
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \Awdhesh Gaund + AI (Claud ai,Chatgpt)
 
 ---
 
